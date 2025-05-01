@@ -26,7 +26,7 @@ This project applies **Survival Analysis** using **Accelerated Failure Time (AFT
 - `survival_analysis.ipynb` — Full notebook with model fitting, CLV computation, and visualizations
 - `requirements.txt` — Python dependencies
 - `README.md` — Project overview
-- `report.pdf` (optional) — Formal write-up of analysis and recommendations
+- `report.pdf`  — Formal write-up of analysis and recommendations
 
 ## 📌 Requirements
 
